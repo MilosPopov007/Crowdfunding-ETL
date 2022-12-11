@@ -1,6 +1,8 @@
 # Crowdfunding-ETL
 Creating **Data Pipeline** for "Independent Funding"  crowdfunding platform using ETL process (extract, transform, and load).
 
+![This is an image](https://github.com/MilosPopov007/Crowdfunding-ETL/blob/main/ETL.png)
+
 ## Project Summary phases:
 
 * Create an ETL pipeline that moves raw data to a SQL database.
