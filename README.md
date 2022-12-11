@@ -15,7 +15,7 @@ Creating **Data Pipeline** for "Independent Funding"  crowdfunding platform usin
 
 Initial steps in the project included extracting and transforming the raw data from the large Excel file, followed by "clean and transform" steps in the code ( [Crowdfunding-ETL](https://github.com/MilosPopov007/Crowdfunding-ETL/blob/main/Crowdfunding_ETL.ipynb) [Extract-Transform_final_code](https://github.com/MilosPopov007/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb.ipynb) ).
 
-After exporting  the DataFrames to CSV files, a table schema was created using an entity relationship diagram (ERD)
+After exporting  the DataFrames to CSV files, a [table schema](https://github.com/MilosPopov007/Crowdfunding-ETL/blob/main/crowdfunding_db_table_schema.sql) was created using an entity relationship diagram (ERD)
 
 ![This is an image](https://github.com/MilosPopov007/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
